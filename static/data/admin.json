@@ -1,0 +1,23 @@
+ 
+[
+	   {
+	     "path":"/home/",
+	     "component": "/home/home.vue",
+	     "tabNmae":"首页"
+		},
+		{
+	     "path":"/home/teacherList",
+	      "component": "/teacherList/teacherList.vue",
+	      "tabNmae":"讲师信息列表"
+		},
+		{
+	     "path":"/home/studentList",
+	     "component": "/studentList/studentList.vue",
+	     "tabNmae":"学生信息列表"
+		},
+		{
+	     "path":"/home/studentPool",
+	     "component": "/studentPool/studentPool.vue",
+	     "tabNmae":"学生资源池"
+		}
+]

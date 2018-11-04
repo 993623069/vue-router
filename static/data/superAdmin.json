@@ -1,0 +1,28 @@
+ 
+[
+	   {
+	     "path":"/home/",
+	     "component": "Home",
+	     "tabNmae":"首页"
+		},
+		{
+	     "path":"/home/userList",
+	     "component": "UserList",
+	     "tabNmae":"用户信息列表"
+		},
+		{
+	     "path":"/home/teacherList",
+	      "component": "TeacherList",
+	      "tabNmae":"讲师信息列表"
+		},
+		{
+	     "path":"/home/studentList",
+	     "component": "StudentList",
+	     "tabNmae":"学生信息列表"
+		},
+		{
+	     "path":"/home/studentPool",
+	     "component": "StudentPool",
+	     "tabNmae":"学生资源池"
+		}
+]
